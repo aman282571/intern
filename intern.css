@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    padding: 30px 50px;
+    background-color: black;
+}
+.contain{
+    padding: 30px;
+    background-color: white;
+}
+
+header{
+    display:flex;
+    justify-content: space-between;
+}
+ul li{
+    display: inline;
+    margin-left: 20px;
+    text-decoration: none;
+}
+ul a{
+    text-decoration: none;
+    color: black;
+}
+
+header #logo
+{
+   
+}
+H1{
+    font-size: 40PX;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.about{
+    display: flex;
+}
+#content{
+    width:50%;
+}
+#content #mark{
+    background-color: red;
+    width: 120px;
+    height: 5px;
+}
+h2{
+    font-size: 18px;
+}
+#red{
+    color: red;
+}
+BUTTON{
+    font-size: 12px;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+}
+
+
+#img{
+    width:50%;
+
+}
+#blog1{
+    margin-top: 90px;
+
+}
+ #blog1 #mark{
+    background-color: red;
+    width: 190px;
+    height: 5px;
+}
+#blog{
+    margin-top: 20px;
+    display: flex;
+}
+#box{
+    width: 33.33%;
+
+}
+#img1{
+    height: 200px;
+    width:90%;
+   
+}
+#blog1 h2{
+    font-size: 30px;
+}
+#box #heading{
+    font-size:20px;
+  font-weight: 700;
+  
+}
+
+#getinvolved #mark{
+    background-color: red;
+    width: 120px;
+    height: 5px;
+}
+#getin {
+    display: flex;
+}
+#getinvolved #content h2{
+    font-size: 22px;
+}
+
+.sponser #mark
+{
+    background-color: red;
+    width: 120px;
+    height: 5px;
+}
+
+
+.findus{
+    display: flex;
+}
+
+.findus #mark{
+    background-color: red;
+    width: 120px;
+    height: 5px;
+}
+
+.findus i{
+    margin-left:6px;
+}
+
